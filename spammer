@@ -1,0 +1,4 @@
+w=input("Enter your word: ")
+h=int(input("how many time:? "))
+for i in range(h):
+    print(w)
